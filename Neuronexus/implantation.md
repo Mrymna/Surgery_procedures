@@ -12,6 +12,10 @@
 ![](figures/reattach.jpg)
 * the screw that is located the one towards you is the one you should turn. the other one at the back is releasing the probe from the drive. 
 * Move the probe out of the way and bring the animal. 
+* remove the lid and the pcb board. 
+* make sure that the skull of your animal is approximately flat. 
+* 
+
 
 
 
