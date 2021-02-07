@@ -1,4 +1,4 @@
-# implanting two 32ch Neuronexus probe in Hipocampus
+# implanting two 32ch Neuronexus probe in Hippocampus ca1 region
 ## checking the probe
 * look at the probes under the microscope and make sure that they are clean. you should check the recording sites.
 ![](figures/recordingsites.jpg)
