@@ -32,6 +32,21 @@
 * make sure tha the cement does not touch the probe. 
 * add cemant to the outside wall of the case to attache it to the base. 
 * look regulary to the probes to make sure you are not cementing the probes. 
+* move the pcb plate to the base. this is the most delicated part you need to hold the plate with your finger while moving it to the base.
+* start tightening the screws to the base. but do not put so much pressure since its possible that you move the head and bend the probes. 
+* you have to be careful since there is always the possiblility to move the head while screwing the pcb back to the base. 
+* the next step is to solder the ground wire to the point where you had the wire before. 
+![](figures/groundwire.jpg)
+
+* make sure while you are soldering the qround wire dont touch the probe. 
+* now you should disconnect the holder. Make sure you are unscrewing the right screw. 
+* release the drive and move away the holder. 
+* now you can add the lid with the right height. (09 mm)
+
+
+
+
+
 
 
 
