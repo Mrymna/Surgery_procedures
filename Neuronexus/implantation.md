@@ -14,6 +14,7 @@
 * Move the probe out of the way and bring the animal. 
 * remove the lid and the pcb board. 
 * make sure that the skull of your animal is approximately flat. 
+* add some saline to the skull to make it wet. 
 * 
 
 
