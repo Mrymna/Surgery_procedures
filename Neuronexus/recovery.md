@@ -24,7 +24,4 @@
 * Now you can raise the holder completely around 10 cm away from the animal. 
 * place the in the cleaning solution. in the protective box. 
 * for cleanng follow here
-![](figures/PXL_20210206_130623489.jpg)
-
-
-
+![](Neuronexus/cleaning.md)
