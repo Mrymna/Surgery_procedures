@@ -25,7 +25,11 @@
 * remve the blood with spoge or tissue before puting the probes. 
 * lower the prbe about 0.3 um below the surface of the brain. 
 * now you need to put the liquid melted wax on top of the brain. 
-* make sure you have enough space for the shuttles to go down. 
+* make sure you have enough space for the shuttles to go down.
+* Now you can add cement. start adding cemant at the front. 
+* make sure tha the cement does not touch the probe. 
+* add cemant to the outside wall of the case to attache it to the base. 
+* look regulary to the probes to make sure you are not cementing the probes. 
 
 
 
