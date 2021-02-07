@@ -17,8 +17,11 @@
 * make sure that the skull of your animal is approximately flat. 
 * you can use the compress air to clean the skull. 
 * add some saline to the skull to make it wet. 
+![](figures/skullbefore.jpg)
 * before drilling you need to check if the probes are fitting in and if not you need to do some readjustment. 
-* Drill the implantation sites. 
+* check if the probes are arrivng with the same hight on the skull. 
+* Drill the implantation sites. its important to not damag the dura or the brain. 
+*
 
 
 
