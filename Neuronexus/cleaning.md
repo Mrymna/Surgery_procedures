@@ -6,3 +6,7 @@
 ![](figures/holders.jpg)
 * then yo should put that on to the shaker. 
 ![](figures/washing.jpg)
+* let the drive to stay in the 1% solution (0.4 g in 40 ml).
+* On the next day, you need to remiove the soup water and stear the probes with still water for at least 30 min 
+* repeat the washing for 3 times. 
+* if you are storing the drive, make sure that the shanks are not stuck together. if so yo need to seperate them under the microscop. 
