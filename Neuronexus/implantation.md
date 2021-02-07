@@ -12,10 +12,14 @@
 ![](figures/reattach.jpg)
 * the screw that is located the one towards you is the one you should turn. the other one at the back is releasing the probe from the drive. 
 * Move the probe out of the way and bring the animal. 
+* put some vaseline on the eyes of the animal. 
 * remove the lid and the pcb board. 
 * make sure that the skull of your animal is approximately flat. 
+* you can use the compress air to clean the skull. 
 * add some saline to the skull to make it wet. 
-* 
+* before drilling you need to check if the probes are fitting in and if not you need to do some readjustment. 
+* Drill the implantation sites. 
+
 
 
 
