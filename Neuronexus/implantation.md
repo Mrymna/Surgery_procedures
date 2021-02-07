@@ -38,6 +38,15 @@
 * the next step is to solder the ground wire to the point where you had the wire before. 
 ![](figures/groundwire.jpg)
 
+* make sure while you are soldering the qround wire dont touch the probe. 
+* now you should disconnect the holder. Make sure you are unscrewing the right screw. 
+* release the drive and move away the holder. 
+* now you can add the lid with the right height. (09 mm)
+
+
+
+
+
 
 
 
