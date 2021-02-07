@@ -39,9 +39,17 @@
 ![](figures/groundwire.jpg)
 
 * make sure while you are soldering the qround wire dont touch the probe. 
+![](figures/soldered2.jpg)
+
 * now you should disconnect the holder. Make sure you are unscrewing the right screw. 
 * release the drive and move away the holder. 
+![](figures/beforeaddingcap.jpg)
+
 * now you can add the lid with the right height. (09 mm)
+* you may also want to inject 0.4 ml of diluted carpofen with saline to the mouse. 
+* Now you can check the signal in the recording room and see how does that look!
+* have fun with your recording :D 
+
 
 
 
