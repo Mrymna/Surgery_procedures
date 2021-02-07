@@ -22,9 +22,11 @@
 * check if the probes are arrivng with the same hight on the skull. 
 * Drill the implantation sites. its important to not damag the dura or the brain. 
 * remove the dura with little possible damage that is possible! 
+![](figures/brainafter.jpg)
 * remve the blood with spoge or tissue before puting the probes. 
 * lower the prbe about 0.3 um below the surface of the brain. 
-* now you need to put the liquid melted wax on top of the brain. 
+* now you need to put the liquid melted wax on top of the brain.
+![](figures/addwax.jpg)
 * make sure you have enough space for the shuttles to go down.
 * Now you can add cement. start adding cemant at the front. 
 * make sure tha the cement does not touch the probe. 
