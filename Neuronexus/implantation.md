@@ -21,7 +21,13 @@
 * before drilling you need to check if the probes are fitting in and if not you need to do some readjustment. 
 * check if the probes are arrivng with the same hight on the skull. 
 * Drill the implantation sites. its important to not damag the dura or the brain. 
-*
+* remove the dura with little possible damage that is possible! 
+* remve the blood with spoge or tissue before puting the probes. 
+* lower the prbe about 0.3 um below the surface of the brain. 
+* now you need to put the liquid melted wax on top of the brain. 
+* make sure you have enough space for the shuttles to go down. 
+
+
 
 
 
