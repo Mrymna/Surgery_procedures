@@ -8,7 +8,9 @@ You first need to add a 4 nuts to the base to be able to attach the pcb plate an
 
 *  Use a dental drill to remove any resin that might block the nut from fitting perfectly into the slots.
 *  Add 2 nuts for the lid in the base.
-![Base 1](figures/base1.jpg =200x)
+
+<img src="figures/base1.jpg" alt="drawing" width="200"/>
+
 *  Attach the lid to the base with 2 screws.
 ![Base 2](figures/base2.jpg =200x)
 *  With the lid solidely attached to the base, add cement to completely cover the nuts in the base. Be careful not to cement the lid to the base.
