@@ -39,11 +39,15 @@ I cement the base with the microdrive at the implantation sites. This ensure tha
   * ADN AP: -0.9mm, ML: -0.8mm
   * MEC: ML: 3.1 mm, AP: 0.2mm from the transversal sinus and 5 degree angle toward posterior.
 * You might want to reduce the isoflurane to 1.25-1.5%
+
 <img src="figures/implant_base1.jpg" alt="drawing" width="400"/>
 
 ## Mark the site for the ground and anchor screws
 
 * Place the base on the skull at the approximate correct location.
+
+<img src="figures/implant_base2.jpg" alt="drawing" width="400"/>
+
 * Use the microdrive holder to put the microdrive at the correct place, as if you wanted to implant probes.
 * Make a mark with a pen for the anchor and ground screws. There is a hole in the base for the anchor screw. Make sure you are not placing the screw in a bone fissure or above a sinus.
 * Move the microdrive away and remove the base
@@ -54,14 +58,23 @@ I cement the base with the microdrive at the implantation sites. This ensure tha
 * Drill a hole for the anchor and ground screw. Start with a smaller hole and test if you can insert the screw. If not, make the hole larger and repeat.
 * Insert the anchor screw so that it does not come out too much from the skull. I normally use the dremel to shave a few 0.1mm from the screw (as on the picture).
  This will allow you to lower the microdrive further down when implanting the probes.
+ 
+ <img src="figures/implant_base3.jpg" alt="drawing" width="400"/>
+
  * Inser the ground screw.
 
 ## Cementing the base
 
 * Bring back the base to the appropriate position. Make sure the ground wire is going in the hole of the base.
+
+<img src="figures/implant_base4.jpg" alt="drawing" width="400"/>
+
 * Place the base in the correct position. Use the microdrive to make sure your are not placing the base at a position that would make the probe implantation difficult.
 * Add some cement at junction of the base and the skull. Apply the cement only from within the base. The cement should flow under the base to grip the skull, but it should not flow into the skin or muscles. 
 * Wait 2-3 minutes and move the microdrive away so that you have more space to apply the cement.
+
+<img src="figures/implant_base5.jpg" alt="drawing" width="400"/>
+
 * Wait 15 minutes for the cement to solidify.
 
 ## Suturing
@@ -73,9 +86,15 @@ I cement the base with the microdrive at the implantation sites. This ensure tha
 
 * Mount the pcb plate to the base. Try not to apply too much force on the plate or on the head of the animal.
 
+<img src="figures/implant_base6.jpg" alt="drawing" width="400"/>
+
+
 ## Add the lid
 
 * Attach the lid to the base. Make sure that the ground wire is not coming out of the base-lid assembly.
+
+<img src="figures/implant_base7.jpg" alt="drawing" width="400"/>
+
 
 ## Carprofen injections
 
