@@ -39,7 +39,7 @@ I cement the base with the microdrive at the implantation sites. This ensure tha
   * ADN AP: -0.9mm, ML: -0.8mm
   * MEC: ML: 3.1 mm, AP: 0.2mm from the transversal sinus and 5 degree angle toward posterior.
 * You might want to reduce the isoflurane to 1.25-1.5%
-<img src="figures/implantation_base1.jpg" alt="drawing" width="400"/>
+<img src="figures/implantat_base1.jpg" alt="drawing" width="400"/>
 
 ## Mark the site for the ground and anchor screws
 
