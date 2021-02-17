@@ -6,11 +6,14 @@ Tergazyme is a concentrated, anionic detergent with protease enzyme for manual a
 
 * Solution: 0.4 g of Tergazyme powder into 40 ml of distilled water. Put it on the stirer for 10 minutes.
 <img src="figures/targazine.jpg" alt="drawing" width="400"/>
+
 * Put the probe back in the protective case, with a plastic cup below it.
 * Add the Tergazyme solution to cover approximately 1/3 to 1/2 of the shanks of the probe.
 <img src="figures/holders.jpg" alt="drawing" width="400"/>
+
 * Put the probe on the shaker at 50 revolution per minutes and let it shake overnight (approximately 12 hours).
 <img src="figures/washing.jpg" alt="drawing" width="400"/>
+
 * Remove the Tergazyme solution, 
 * Add distilled water to cover most of the shanks to remove any detergent or residue. Put it on the shaker at 50 RPM for 30 minutes.
 * Repeate the previous step 2 times.
