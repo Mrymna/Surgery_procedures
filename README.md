@@ -4,8 +4,16 @@ This repository contains the documentation (or protocols) to perform different s
 
 
 ## Neuronexus probes
+
+### Preparation
 * [Prepare the base](Neuronexus/prepare_base.md)
+* [Prepare the microdrive](Neuronexus/prepare_microdrive.md)
+* [Mount the probes on the microdrive](Neuronexus/mount_probe_on_microdrive.md)
+
+### Implantation
 * [Base implantation](Neuronexus/base_implantation.md)
 * [Probe implantation](Neuronexus/implantation.md)
+
+### Recovery and cleaning
 * [Recovery neuronexus drive](Neuronexus/recovery.md)
 * [Cleaning the neuronexus drive](Neuronexus/cleaning.md)
