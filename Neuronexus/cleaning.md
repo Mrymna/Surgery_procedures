@@ -20,7 +20,7 @@ Tergazyme is a concentrated, anionic detergent with protease enzyme for manual a
 * Add distilled water to cover most of the shanks to remove any detergent or residue. Put it on the shaker at 50 RPM for 30 minutes. Remove the water.
 * Repeate the previous step 2 times.
 
-## Verify that the probe is clean
+## Verify that the probes are clean
 
 After 3 washing cycles, your probes should be perfectly cleaned. Have a look under the microscope to make sure there is no tissue left on the probes.
 
