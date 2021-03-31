@@ -25,7 +25,8 @@ Tergazyme is a concentrated, anionic detergent with protease enzyme for manual a
 After 3 washing cycles, your probes should be perfectly cleaned. Have a look under the microscope to make sure there is no tissue left on the probes.
 
 See the figure for an example of dirty probe. You don't want to let this dry on your shanks.
-<img src="figures/dirty_probe.jpg" alt="drawing" width="200"/>
+
+<img src="figures/dirty_probe.jpg" alt="drawing" width="400"/>
 
 
 ## Storage of the probes
