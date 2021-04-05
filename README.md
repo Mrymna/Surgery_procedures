@@ -8,6 +8,7 @@ This repository contains the documentation (or protocols) to perform different s
 ### Preparation
 * [Prepare the base](Neuronexus/prepare_base.md)
 * [Prepare the microdrive](Neuronexus/prepare_microdrive.md)
+* [Prepare the pcb holder](Neuronexus/prepare_pcb_holder.md)
 * [Mount the probes on the microdrive](Neuronexus/mount_probe_on_microdrive.md)
 
 ### Implantation
