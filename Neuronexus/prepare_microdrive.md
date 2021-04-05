@@ -1,1 +1,38 @@
-# Preparing a microdrive with Neuronexus probe
+# Preparing a microdrive for Neuronexus probe
+
+The microdrive will be re-used for several animals. 
+It is therefore important that it works very well and treated with great care.
+
+## Materials
+
+1. 2 microdrive shuttles (printed)
+2. 1 microdrive body (printed)
+3. 1 microdrive case (printed)
+4. 5 M1 x 6 mm screws
+5. 5 M1 nuts
+6. 1 0.9 mm PCB drill bit
+7. 1 microdrive holder (printed)
+
+## Assemble the microdrive
+
+1. Drill a hole with the 0.9 drill bit into the screw hole of the shuttle. Make sure your drilling is as straight as possible. It should be parallel to the vertical plate holding the probe. The drilling procedure should get rid of a small amount of plastic from the screw hole.
+2. Mount the shuttle on the microdrive body and screw a screw through it. The screw should come out at the bottom of the microdrive body. Make sure you don't damage the thread you create with the screw in the shuttle.
+3. Add a nut at the bottom of the screw. Make sure the screw is tightly secured with the nut. 
+4. Mount the microdrive body on crocodile clamp with rubber. Make sure you do not destroy the small "ears" of the microdrive body that will hold a nut later on.
+5. Add a tinny amout of liquid flux between the nut and the screw. This will help you with soldering the nut to the screw
+6. Solder the nut with the crew using flux. Try to minimize the amount of heat that is transfer to the screw, as it could melt the threads of the shuttle. The flux should allow you to work quickly and have a contact between the soldering iron and the screw that lasts approximately 1-2 seconds.
+7. Let the nut and screw cool down and test if the nut rotates with the screw.
+8. Turn the screw clockwise. The shuttle should move up. Move the shuttle to the middle of the microdrive.
+9. Put the 3rd screw in the body of the microdrive. It will be used later to attach the microdrive to its case.
+10. Add the 2 nuts to the "ears" of the microdrive.
+11. Add 2 screws to the microdrive holder
+12. Attach the microdrive to the microdrive holder. Tighten the screws just a little and make sure the microdrive is parallel to the holder.
+13. Cement the nuts to the microdrive and wait 10 minutes.
+
+## Prepare a microdrive case
+
+1. Add a nut to the microdrive case.
+2. Attach the microdrive to the case with the screw.
+3. Cement the screw in place and wait 10 minutes.
+4. Dissasemble the case from the microdrive to be 100% sure it is not stuck to the microdrive (it would be an expansive mistake).
+
