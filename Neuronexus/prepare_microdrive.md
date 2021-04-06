@@ -14,6 +14,9 @@ It is therefore important that it works very well and treated with great care.
 7. 1 microdrive holder (printed)
 
 <img src="figures/microdrive_building_01.jpg" alt="drawing" width="600"/>
+
+You will need more screws and nuts than shown in the picture.
+
 ## Assemble the microdrive
 
 1. Drill a hole with the 0.9 drill bit into the screw hole of the shuttle. Make sure your drilling is as straight as possible. It should be parallel to the vertical plate holding the probe. The drilling procedure should get rid of a small amount of plastic from the screw hole.
