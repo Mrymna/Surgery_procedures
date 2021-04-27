@@ -5,3 +5,10 @@
 Use a large solder blob to burn the insulation from the tips of the wires.
 Cut the wire to approximately 2 cm long
 Add a copper wire if 5 cm.
+
+
+# Glue probes together (if needed; highly experimental(
+
+1. Place the two probes next to each other.
+
+
