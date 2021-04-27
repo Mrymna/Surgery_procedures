@@ -10,10 +10,13 @@ Work at a workshop microscope with a soldering machine.
 
 1. For each probe, cut the ground (green) and reference (blue/white) wires to approximately 2 cm long.
 2. Use a large solder blob to burn 1 mm of insulation from the tips of the wires.
-3. Remove the burnt isolation still covering the naked wire.
-4. Place the 3 wires so that their exposed end touch each other and apply flux.
-5. Solder the wires together. 
-6. Cut a copper wire at approximately 5 cm, remove the insulation at one end with solder. Solder the copper wire to the 3 other wire. 
+
+<img src="figures/stack_01.jpg" alt="drawing" width="400"/>
+
+4. Remove the burnt isolation still covering the naked wire.
+5. Place the 3 wires so that their exposed end touch each other and apply flux.
+6. Solder the wires together. 
+7. Cut a copper wire at approximately 5 cm, remove the insulation at one end with solder. Solder the copper wire to the 3 other wire. 
 
 ## Glue the probes on top of each other
 
