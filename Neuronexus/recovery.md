@@ -14,6 +14,7 @@
 ![](figures/remove-the-lid.jpg)
 * Remove any dust with compressed air (gently).
 * Cut the ground wire. Leave a long part of the cable on the PCB side so that you know where to connect the ground of the next animal. Make sure you do not cut anything else.
+* If the probes are completely in wax, you can try to heat up the wax slightly to make sure lateral movement of the probes does not damage the probes. I used the soldering iron and just get closer to the wax. Do not approach the probes or microdrive with the soldering iron.
 * Raise the shuttles so that they are almost completely up. This will free part of the probes and make it less likely that you damage them when you deattach the microdrive from the base.
 * Lower the microdrive holder to get close to the microdrive.
 * Make sure the screws are aligne with the nuts of the microdrive. The best way is to look from above and make sure the holes are aligned with the screws.
