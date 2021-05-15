@@ -29,9 +29,11 @@ If after removing the water from the pool, some probes are stuck together becaus
 See the figure for an example of dirty probe. You don't want to let this dry on your shanks as this might compromise your recording sites.
 
 Your probe should not look like this.
+
 <img src="figures/dirty_probe.jpg" alt="drawing" width="400"/>
 
 It should look like this one.
+
 <img src="figures/clean_probes.jpg" alt="drawing" width="400"/>
 
 
