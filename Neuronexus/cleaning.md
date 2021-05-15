@@ -24,6 +24,8 @@ Tergazyme is a concentrated, anionic detergent with protease enzyme for manual a
 
 After 3 washing cycles, your probes should be perfectly cleaned. Have a look under the microscope to make sure there is no tissue left on the probes.
 
+If after removing the water from the pool, some probes are stuck together because of water, put the probes under the microscope. Take a small piece of paper tissue and bring it to the body of the probe (PCB part). The water should be sucked by your tissue and the probes will separate themselves. This is less dangerous than touching the probes themselves.
+
 See the figure for an example of dirty probe. You don't want to let this dry on your shanks as this might compromise your recording sites.
 
 <img src="figures/dirty_probe.jpg" alt="drawing" width="400"/>
