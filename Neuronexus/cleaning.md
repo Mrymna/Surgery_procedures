@@ -9,24 +9,27 @@ Tergazyme is a concentrated, anionic detergent with protease enzyme for manual a
 
 ## Cleaning the probes
 
-* Put the probe back in the protective case, with a plastic cup below it.
+* Put the probe back in the protective case, with a plastic cup (pool) below it.
+* 
 * Add the Tergazyme solution to cover approximately 1/3 to 1/2 of the shanks of the probe.
 <img src="figures/holders.jpg" alt="drawing" width="400"/>
 
 * Put the probe on the shaker at 50 revolution per minutes and let it shake overnight (approximately 12 hours).
 <img src="figures/washing.jpg" alt="drawing" width="400"/>
 
-* Remove the Tergazyme solution, 
-* Add distilled water to cover most of the shanks to remove any detergent or residue. Put it on the shaker at 50 RPM for 30 minutes. Remove the water.
+* Remove the Tergazyme solution and add distilled water to cover most of the shanks to remove any detergent or residue. Put it on the shaker at 50 RPM for 30 minutes. Remove the water.
+
 * Repeate the previous step 2 times.
 
-## Verify that the probes are clean
+* Remove the water from the pool, raise the probe, and remove the pool from the holder.
+
+## Verify that the probes are clean and not stuck together
 
 After 3 washing cycles, your probes should be perfectly cleaned. Have a look under the microscope to make sure there is no tissue left on the probes.
 
-If after removing the water from the pool, some probes are stuck together because of water, put the probes under the microscope. Take a small piece of paper tissue and bring it to the body of the probe (PCB part). The water should be sucked by your tissue and the probes will separate themselves. This is less dangerous than touching the probes themselves.
+If after removing the water from the pool, some probes are stuck together because of water, put the probes under the microscope. Take a small piece of paper tissue and bring it to the body of the probe (PCB part, not the shanks if possible). The water should be sucked by your tissue and the probes will separate themselves. This is less dangerous than touching the probes themselves.
 
-See the figure for an example of dirty probe. You don't want to let this dry on your shanks as this might compromise your recording sites.
+See the figure below for examples of dirty and clean probes. You don't want to let a dirty probe dry as this might compromise your recording sites.
 
 Your probe should not look like this.
 
@@ -39,5 +42,4 @@ It should look like this one.
 
 ## Storage of the probes
 
-* Make sure that the shanks are not stuck together. If they are, use a microscope and a fine needle to separate them.
 * Leave the probe in its protective case and store it in a safe place. It should be stored in a closed case so that there is no dust accumulating on it.
