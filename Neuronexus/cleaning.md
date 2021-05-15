@@ -1,5 +1,7 @@
 # Cleaning procedure for Neuronexus probes
 
+Leave the probe on its post so that it is protected as much as possible.
+
 ## Preparation of a Tergazyme solution
 
 Tergazyme is a concentrated, anionic detergent with protease enzyme for manual and ultrasonic cleaning. Excellent for removal of proteinaceous soils, tissue, blood and body fluids from glassware, metals, plastic, ceramic, porcelain, rubber and fiberglass with no interfering residues. Ideal as a cleaning agent in Reverse Osmosis and Ultra-Filtration Systems. USDA authorized. Dilute: 1:100. pH 9.5
@@ -25,7 +27,7 @@ Tergazyme is a concentrated, anionic detergent with protease enzyme for manual a
 
 ## Verify that the probes are clean and not stuck together
 
-After 3 washing cycles, your probes should be perfectly cleaned. Have a look under the microscope to make sure there is no tissue left on the probes.
+After 3 washing cycles, your probes should be perfectly cleaned. Have a look under the microscope to make sure there is no tissue left on the probes. You might want to rotate the probe by 90 degrees on the post to make sure the recording sites are clean, but leave the probe on the post as it is safer there than in your hands.
 
 If after removing the water from the pool, some probes are stuck together because of water, put the probes under the microscope. Take a small piece of paper tissue and bring it to the body of the probe (PCB part, not the shanks if possible). The water should be sucked by your tissue and the probes will separate themselves. This is less dangerous than touching the probes themselves.
 
