@@ -71,7 +71,7 @@ I cement the base with the microdrive at the implantation sites. This ensure tha
 
 * Place the base in the correct position. Use the microdrive to make sure your are not placing the base at a position that would make the probe implantation difficult.
 * Add some cement at junction of the base and the skull. Apply the cement only from within the base. The cement should flow under the base to grip the skull, but it should not flow into the skin or muscles. 
-* Wait 2-3 minutes and move the microdrive away so that you have more space to apply the cement.
+* Wait 5 minutes and move the microdrive away so that you have more space to apply the cement.
 
 <img src="figures/implant_base5.jpg" alt="drawing" width="400"/>
 
