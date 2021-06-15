@@ -12,9 +12,9 @@ To do so precisely, we will get the width, length and height of points on the to
   * The grid extends laterally until the end of the top of the skull. 
   * Posterior, it ends at the end of the cerebellum
   * Anterior, it ends ...
-  * Save the coordinates in a text file.
+  * Save the coordinates in a text file in `Surgery_procdures/skull/top3d.txt`. 3 columns for x,y,z. 0,0,0 is bregma.
 
 4. We can also create a series of points that follows the edge of the top of the skull.
   * Approximately 0.2 mm spacing between points.
-  * Save the coordinates in a text file.
+  * Save the coordinates in a text file in `Surgery_procdures/skull/edges3d.txt`. 3 columns for x,y,z. 0,0,0 is bregma.
   
