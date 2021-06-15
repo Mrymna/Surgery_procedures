@@ -5,7 +5,7 @@ This repository contains the documentation (or protocols) to perform different s
 
 ## Skull coordinates
 
-* [Skull coordinates project](skull/mouse.md)
+* [Skull coordinates project](skull/mouse_skull_top.md)
 
 ## Neuronexus probes
 
