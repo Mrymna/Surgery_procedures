@@ -3,6 +3,10 @@
 This repository contains the documentation (or protocols) to perform different surgical procedures.
 
 
+## Skull coordinates
+
+* [Skull coordinates project](skull/mouse.md)
+
 ## Neuronexus probes
 
 ### Preparation
