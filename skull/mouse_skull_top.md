@@ -8,13 +8,13 @@ To do so precisely, we will get the width, length and height of points on the to
 1. Place a skull under the stereotaxic frame.
 2. Level bregma and lambda.
 3. Create a 3D coordinate grid. 
-  1. The spacing in the x- and y-axis is 0.2 mm. 
-  2. The grid extends laterally until the end of the top of the skull. 
-  3. Posterior, it ends at the end of the cerebellum
-  4. Anterior, it ends ...
-  5. Save the coordinates in a text file.
+  * The spacing in the x- and y-axis is 0.2 mm. 
+  * The grid extends laterally until the end of the top of the skull. 
+  * Posterior, it ends at the end of the cerebellum
+  * Anterior, it ends ...
+  * Save the coordinates in a text file.
 
 4. We can also create a series of points that follows the edge of the top of the skull.
-  1. Approximately 0.2 mm spacing between points.
-  2. Save the coordinates in a text file.
+  * Approximately 0.2 mm spacing between points.
+  * Save the coordinates in a text file.
   
