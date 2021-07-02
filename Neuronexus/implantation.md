@@ -6,6 +6,8 @@ The picutres are from an implantation of 2 32-channel probes in the CA1 area. A 
 * Look at the probes under the microscope and make sure that they are clean. You should check the recording sites.
 ![](figures/recordingsites.jpg)
 
+Make sure you have a case with a nut cemented in it.
+
 ## Prepare the wax
 
 Turn on the incubator to melt the wax that will protect the probes.
