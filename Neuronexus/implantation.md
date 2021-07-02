@@ -56,7 +56,7 @@ The case around the shield allows the recovery of the microdrive. We will cement
 * Make sure that the cement does not come back to touch the probes, i.e. keep an eye on your probes.
 * Add cement to the outside wall of the case, on both side. Always make sure you do not cement the microdrive to the case!!!
 * Look regulary to the probes to make sure you are not cementing the probes. 
-* Wait 5 minutes to give time to the cement to solidify.
+* Wait 15 minutes to give time to the cement to solidify.
 
 ## Attach the PCB plate to the base
 
