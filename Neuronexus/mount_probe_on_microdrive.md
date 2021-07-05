@@ -10,8 +10,8 @@ This was a configuration we use to establsh recording for the MEC.
 
 ### Add the PCB to the PCB plate
 
-1. Prepare a PCB holder plate with copper shielding.
-2. Mount the PCB of the probe in the PCB holder plate.
+1. Prepare a [PCB holder plate](prepare_pcb_holder.md) with copper shielding.
+2. Mount the PCB of the probe in the PCB holder plate. I had to insert the PCB from the bottom of the PCB holder plate.
 <img src="figures/mount_probe_pcb_case.jpg" alt="drawing" width="600"/>
 
 1. For each probe, solder the ground and reference wires together
