@@ -41,12 +41,18 @@ The case around the shield allows the recovery of the microdrive. We will cement
 ![](figures/brainafter.jpg)
 * Remove any excess of blood with sponge or tissue before incerting the probes. 
 
-## Probe incertion
+## Probe insertion
 * Bring back the probes to the implantation site.
 * Lower them to the brain surface and measure the DV coordinate.
-* Lower the probes approximately 0.6 um below the surface of the brain. 
+* Lower the probes below the surface of the brain. 
 * Apply melted wax to the base of the probes. Be very careful not to touch the probes with the needle. The wax should not come too high. You should leave enough space to be able to move down the shuttles of the microdrive without having to move them into the wax. 
 ![](figures/addwax.jpg)
+
+Insertion depth
+* ADN 1.8 mm
+* CA1 0.6 mm
+* MEC 0.8 mm
+
 
 * Make sure you have enough space for the shuttles to go down.
 
