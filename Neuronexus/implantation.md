@@ -6,8 +6,8 @@ The picutres are from an implantation of 2 32-channel probes in the CA1 area. A 
 * Look at the probes under the microscope and make sure that they are clean. You should check the recording sites.
 ![](figures/recordingsites.jpg)
 
-Make sure you have a microdrive case with a nut cemented in it.
-Make sure you have a lid that fits you base and PCB plate.
+* Make sure you have a microdrive case with a nut cemented in it.
+* Make sure you have a lid that fits you base and PCB plate.
 
 ## Prepare the wax
 
