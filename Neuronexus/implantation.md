@@ -45,7 +45,7 @@ The case around the shield allows the recovery of the microdrive. We will cement
 * Bring back the probes to the implantation site.
 * Lower them to the brain surface and measure the DV coordinate.
 * Lower the probes below the surface of the brain. 
-* Apply melted wax to the base of the probes. Be very careful not to touch the probes with the needle. The wax should not come too high. You should leave enough space to be able to move down the shuttles of the microdrive without having to move them into the wax. 
+* Apply melted wax to the base of the probes. Be very careful not to touch the probes with the needle. The wax should not come too high. You should leave enough space to be able to move down the shuttles of the microdrive without having to move them into the wax. If the wax touches the shuttles, you can try melting it with the soldering iron to make space for the shuttle to go down. Do not apply excessive heat.
 ![](figures/addwax.jpg)
 
 Insertion depth
