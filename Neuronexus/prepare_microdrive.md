@@ -29,6 +29,8 @@ You will need more screws and nuts than shown in the picture.
 
 <img src="figures/microdrive_building_04.jpg" alt="drawing" width="600"/>
 
+The shuttles should not have lateral play. They should only move up and down.
+
 3. Add a nut at the bottom of the screw. Make sure the screw is tightly secured with the nut. 
 
 <img src="figures/microdrive_building_05.jpg" alt="drawing" width="600"/>
