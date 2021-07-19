@@ -12,7 +12,7 @@ The ordering of the channels is a 2 step process.
 
 https://www.neuronexus.com/files/probemapping/64-channel/H64LP-Maps.pdf
 
-The website does not have the order of channels for the 4x16 probjes.
+The website does not have the order of channels for the 4x16 probes.
 
 [Neuronexus catalog](https://www.neuronexus.com/files/catalog/2021-Probe-Catalog.pdf)
 
@@ -27,3 +27,5 @@ Channel index starts at 0.
 ## ktan
 
 The channel number in ktan are the same as the Intan amplifier. There are 16 digital inputs added to the analog input of the amplifier.
+
+There is a python script for channel mapping for the H64LP probe.
