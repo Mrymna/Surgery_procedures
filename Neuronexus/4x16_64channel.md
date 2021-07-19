@@ -14,9 +14,14 @@ https://www.neuronexus.com/files/probemapping/64-channel/H64LP-Maps.pdf
 
 The website does not have the order of channels for the 4x16 probjes.
 
+Channel index starts at 1.
 
 ## Order of the channels in the Intan amplifier
 
 https://intantech.com/files/Intan_Recording_Controller_user_guide.pdf
 
+Channel index starts at 0.
 
+## ktan
+
+The channel number in ktan are the same as the Intan amplifier. There are 16 digital inputs added to the analog input of the amplifier.
