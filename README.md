@@ -23,3 +23,7 @@ This repository contains the documentation (or protocols) to perform different s
 ### Recovery and cleaning
 * [Recovery neuronexus drive](Neuronexus/recovery.md)
 * [Cleaning the neuronexus drive](Neuronexus/cleaning.md)
+
+### Channel order for recordings
+
+* [4x16 probes with 64-channel intan amplifier](Neuronexus/4x16_64channel.md)
