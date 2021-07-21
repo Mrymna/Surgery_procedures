@@ -29,7 +29,7 @@ Tergazyme is a concentrated, anionic detergent with protease enzyme for manual a
 
 After 3 washing cycles, your probes should be perfectly cleaned. Have a look under the microscope to make sure there is no tissue or crystals left on the probes. You might want to rotate the probe by 90 degrees on the post to make sure the recording sites are clean, but leave the probe on the post as it is safer there than in your hands.
 
-If crystal forms on a shank, you can try to dip the probe is warm water (~60 deg celcius).
+**If crystal forms on a shank, you can try to dip the probe is warm water (~60 deg celcius).**
 
 If after removing the water from the pool, some probes are stuck together because of water, put the probes under the microscope. Take a small piece of paper tissue and bring it to the body of the probe (PCB part, not the shanks if possible). The water should be sucked by your tissue and the probes will separate themselves. This is less dangerous than touching the probes themselves.
 
