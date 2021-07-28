@@ -30,7 +30,7 @@ You will need more screws and nuts than shown in the picture.
 
 <img src="figures/microdrive_building_04.jpg" alt="drawing" width="600"/>
 
-A shuttle should have only minimal **lateral play**. They should only move up and down, not sideways. We broke a few shanks in the past because the shuttles were moving sideways. This can be fixed by diminishing the gap between the shuttle and the microdrive. 
+**Important warning**: A shuttle should have only minimal **lateral play**. They should only move up and down, not sideways. We broke a few shanks in the past because the shuttles were moving sideways. This can be fixed by diminishing the gap between the shuttle and the microdrive. 
 
 
 3. Add a nut at the bottom of the screw. Make sure the screw is tightly secured with the nut. 
