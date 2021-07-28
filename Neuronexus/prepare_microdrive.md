@@ -30,9 +30,8 @@ You will need more screws and nuts than shown in the picture.
 
 <img src="figures/microdrive_building_04.jpg" alt="drawing" width="600"/>
 
-The shuttles should not have lateral play. They should only move up and down. We broke a few shanks in the past because the shuttles were moving sideways. This can be fixed by diminishing the gap between the shuttle and the microdrive.
+**Important warning**: A shuttle should have only minimal **lateral play**. They should only move up and down, not sideways. We broke a few shanks in the past because the shuttles were moving sideways. This can be fixed by diminishing the gap between the shuttle and the microdrive. 
 
-<img src="figures/microdrive_gap.jpg" alt="drawing" width="600"/>
 
 3. Add a nut at the bottom of the screw. Make sure the screw is tightly secured with the nut. 
 
@@ -71,6 +70,13 @@ The shuttles should not have lateral play. They should only move up and down. We
 12. Cement the nuts to the microdrive and wait 10 minutes.
 
 <img src="figures/microdrive_building_12.jpg" alt="drawing" width="600"/>
+
+The microdrive should **not** moved laterally when attached to its case. Lateral movement can easily break the shanks of the probe. Lateral movement can be minimize by having a case that is just wide enough to allow the microdrive to fit in, as on this picture.
+
+<img src="figures/microdrive_gap.jpg" alt="drawing" width="600"/>
+
+
+
 
 
 ## Prepare a microdrive case
