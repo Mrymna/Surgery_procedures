@@ -2,6 +2,7 @@
 
 The microdrive will be re-used for several animals. 
 It is therefore important that it works very well and treated with great care.
+In this documents, most of the pictures are from a microdrive with 2 independently moving shuttles. The instructions are very similar for other microdrive models.
 
 ## Materials
 
@@ -29,7 +30,9 @@ You will need more screws and nuts than shown in the picture.
 
 <img src="figures/microdrive_building_04.jpg" alt="drawing" width="600"/>
 
-The shuttles should not have lateral play. They should only move up and down.
+The shuttles should not have lateral play. They should only move up and down. We broke a few shanks in the past because the shuttles were moving sideways. This can be fixed by diminishing the gap between the shuttle and the microdrive.
+
+<img src="figures/microdrive_gap.jpg" alt="drawing" width="600"/>
 
 3. Add a nut at the bottom of the screw. Make sure the screw is tightly secured with the nut. 
 
