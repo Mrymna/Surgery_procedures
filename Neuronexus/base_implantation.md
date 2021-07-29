@@ -52,7 +52,9 @@ I cement the base with the microdrive at the implantation sites. This ensure tha
 * Make a mark with a pen for the anchor and ground screws. There is a hole in the base for the anchor screw. Make sure you are not placing the screw in a bone fissure or above a sinus.
 * Move the microdrive away and remove the base
 
-## Drilling and fixing the anchor and ground screws
+## Drilling and fixing the anchor and ground screw
+
+You need to add one anchor screw at the front and one ground screw at the back. The anchor screw at the front need to be shorten to make sure it does not prevent us from lowering the microdrive later on. To shorten it, use a dremel and cut 0.2 mm at the bottom and at the top.
 
 * Choose a small drill bit, set the drill in the forward mode.
 * Drill a hole for the anchor and ground screw. Start with a smaller hole and test if you can insert the screw. If not, make the hole larger and repeat.
