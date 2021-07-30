@@ -13,6 +13,14 @@ You will need a lid to cover the microdrive and implantation site. Depending on 
 * Make sure you have a microdrive case with a nut cemented in it.
 * Make sure you have a lid that fits you base and PCB plate.
 
+## Adjust the shuttle height
+
+For most implantation, you want the shuttle to be near the top of their range. 
+I usually go down 2 turns from their highest position.
+
+Before implanting, make sure the last shuttle movement was down. This will minimize lateral movement of the shanks when you will move the probe before recording. Ideally, you only move the shuttle down after implantation.
+
+
 ## Prepare the wax
 
 Turn on the incubator to melt the wax that will protect the probes.
