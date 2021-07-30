@@ -2,7 +2,7 @@
 
 The picutres are from an implantation of 2 32-channel probes in the CA1 area. A similar procedure can be used for other brain areas or probes.
 
-## Make sure you have a lid
+## Make sure you have lids of different height
 
 You will need a lid to cover the microdrive and implantation site. Depending on the height of the microdrive, you might need lids that are up to approximately 11 mm high. Make sure you lids of different heights before starting your surgery. 
 
