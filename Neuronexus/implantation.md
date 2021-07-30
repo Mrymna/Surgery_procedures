@@ -1,6 +1,10 @@
-# Implanting Neuronexus probes in Hippocampus or ADN region
+# Implanting Neuronexus probes
 
 The picutres are from an implantation of 2 32-channel probes in the CA1 area. A similar procedure can be used for other brain areas or probes.
+
+## Make sure you have a lid
+
+You will need a lid to cover the microdrive and implantation site. Depending on the height of the microdrive, you might need lids that are up to approximately 11 mm high. Make sure you lids of different heights before starting your surgery. 
 
 ## Inspect the probes
 * Look at the probes under the microscope and make sure that they are clean. You should check the recording sites.
