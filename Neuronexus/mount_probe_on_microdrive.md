@@ -25,6 +25,14 @@ This was a configuration we use to establsh recording for the MEC.
 <img src="figures/mount_probe_gnd3.jpg" alt="drawing" width="400"/> 
 
 
+
+### Determine the probe orientation
+
+The orientation of the connector and probe is important as you will need to map the probe channels to the amplifier channels.
+The orientation also determines which shanks are lateral or medial.
+Take pictures or notes of what you are doing and always keep the same orientation. 
+This will simplify your data analysis.
+
 ### Grab the probe with a holder
 
 The best way to manipulate probes that have large PCB is with a printed probe grabber attached to the stereotaxic frame. Ideally, we would add a clamp for the PCB on the probe grabber.
