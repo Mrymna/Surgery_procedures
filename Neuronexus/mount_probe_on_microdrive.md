@@ -33,6 +33,9 @@ The orientation also determines which shanks are lateral or medial.
 Take pictures or notes of what you are doing and always keep the same orientation. 
 This will simplify your data analysis.
 
+In the case of 1 X 64 probes, we rotate them so that the shanks are closer to the shuttle.
+The recording sites should not visible from the back of the mouse. 
+
 ### Grab the probe with a holder
 
 The best way to manipulate probes that have large PCB is with a printed probe grabber attached to the stereotaxic frame. Attach the probe connector to the back of the probe grabber.
