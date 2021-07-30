@@ -35,8 +35,8 @@ This will simplify your data analysis.
 
 ### Grab the probe with a holder
 
-The best way to manipulate probes that have large PCB is with a printed probe grabber attached to the stereotaxic frame. Ideally, we would add a clamp for the PCB on the probe grabber.
-Grab the probe in the top 1/3 of the probe PCB.
+The best way to manipulate probes that have large PCB is with a printed probe grabber attached to the stereotaxic frame. Attach the probe connector to the back of the probe grabber.
+Grab the probe in the top 1/3 if the probe PCB.
 <img src="figures/mount_probe_grab_probe.jpg" alt="drawing" width="400"/> 
 
 ### Place the probe on the shuttle
