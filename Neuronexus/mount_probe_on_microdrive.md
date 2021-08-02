@@ -15,7 +15,7 @@ This was a configuration we use to establsh recording for the MEC.
 <img src="figures/mount_probe_pcb_case.jpg" alt="drawing" width="400"/>
 
 ### Solder the ground and reference wires of the PCB
-
+0. Cut the ground just below the brown tube.
 1. Remove the insulation of the reference and ground wire by melting them with solder at 450 degree and removing the burnt plastic left.
 2. Place the exposed wire so they touch eachother. 
 <img src="figures/mount_probe_gnd1.jpg" alt="drawing" width="400"/>
