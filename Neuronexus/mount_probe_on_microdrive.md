@@ -51,7 +51,7 @@ Grab the probe in the top 1/3 if the probe PCB.
 
 ### Cement the probe to the shuttle
 
-1. Make sure the probe is straight.
+1. Make sure the probe is straight. For MEC probes, align the bottom of probe PCB with the bottom of the shuttle.
 2. Add some cement between the shuttle and the probe. If the cement is liquid enough, the capilary effect will move the cement between the shuttle and the probe.
 3. Immediately after adding the cement, you can make any final adjustment of the probe position if needed.
 4. Wait 10 minutes
