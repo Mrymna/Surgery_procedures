@@ -3,7 +3,7 @@
 The picutres are from an implantation of 2 32-channel probes in the CA1 area. A similar procedure can be used for other brain areas or probes.
 
 This assumes that the base is already on the head of the mouse.
-If your animal does not have a base yet, go [here]().
+If your animal does not have a base yet, go [here](https://github.com/Mrymna/Surgery_procdures/blob/main/Neuronexus/base_implantation.md).
 
 ## Make sure you have lids of different height
 
