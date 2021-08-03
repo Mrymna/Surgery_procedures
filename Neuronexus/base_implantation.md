@@ -64,8 +64,9 @@ You need to add one anchor screw at the front and one ground screw at the back. 
  <img src="figures/implant_base3.jpg" alt="drawing" width="400"/>
 
  * Inser the ground screw.
-If you plan to implant the probe in the same surgery, drill most of the skull above your implantation site. Only leave a thin layer of skull that can be removed later.
 
+If you plan to implant the probe in the same surgery, drill most of the skull above your implantation site. Only leave a thin layer of skull that can be removed later.
+By doing most of the drilling before cementing the base, you reduce the chance of weakening the bound between the cement and the skull.
 
 ## Cementing the base
 
