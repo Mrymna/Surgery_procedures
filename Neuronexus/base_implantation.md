@@ -80,7 +80,6 @@ You need to add one anchor screw at the front and one ground screw at the back. 
 * Wait 15 minutes for the cement to solidify.
 
 If you are implanting the probe in this surgery in addition to the base, go [here](https://github.com/Mrymna/Surgery_procdures/blob/main/Neuronexus/implantation.md).
- You can come back to this page for the final steps.
 
 ## Suturing
 
