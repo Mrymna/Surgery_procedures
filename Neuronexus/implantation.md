@@ -44,6 +44,10 @@ The case around the shield allows the recovery of the microdrive. We will cement
 * Remove the lid and the pcb board. 
 * Make sure that the skull of your animal is leveled. 
 * Use compress air to remove any dust from inside the base plate. 
+
+## Prepare the implantation site
+
+
 * Add some saline to the skull to soften it and wait a few minutes.
 ![](figures/skullbefore.jpg)
 * Bring the probes to the marked implantation sites and make sure that they can reach the sites. If you have 2 implantation sites, make sure that the probes have the right relative height.
