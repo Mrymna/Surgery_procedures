@@ -26,7 +26,7 @@ We now need to attach the microdrive to the holder. The two screws at the front 
 * Make sure the screws are aligne with the nuts of the microdrive. The best way is to look from above and make sure the holes are aligned with the screws.
 * There are two screws to reattach the drive to the holder. Gently screw them clockwise. Look at the probe that nothing unexpected happen. **Do not apply strong force on the screw as this could damage the nut or the microdrive**. 
 
- ### If you have problems getting the screw to catch the nut thread
+ ### If you have problems getting the screw to catch the thread of the nut
  
  Try the following:
  
