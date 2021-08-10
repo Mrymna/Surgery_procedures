@@ -31,12 +31,19 @@ We now need to attach the microdrive to the holder. The two screws at the front 
  Try the following:
  
  * Make sure that the microdrive holder is flat with the microdrive. 
- * You can try to move sideways a few 0.1 mm. If you can't get the screw to catch the thread, you can use a drill bit to remove some materials in the holder so that the screw can go further down. 
+ * You can try to move sideways a few 0.1 mm. 
+ * If you can't get the screw to catch the thread and you suspect that the screw can go down enough to catch the nut, you can remove some materials with a drill bit to allow the screw to be slightly lower in the microdrive holder. 
+
+## Moving away with the microdrive
 
 * Disattach the microdrive from the casing of the drive which is cemented on the skull. This is the screw in the middle.
 * Slowly raise the microdrive until the probes are out of the wax. The probes should be few mm in the air so they can freely move without being damaged.
 * Move the probes so that they are almost 1 cm from anything. Also, take care that the ribbon does not touch the probes.
-* Disattach the pcb holder from the mouse and attach it to the holder. Use the left screw on the pcb to attach it to the holder. Make sure you don't pull on the ribbon cables and that you do not clamp them between pcb and the holder. 
-* Now you can raise the holder completely around 10 cm away from the animal. 
-* Immediately place the probes in the cleaning solution.
-* The cleaning protocol can be found [here](cleaning.md).
+
+## Attach the pcb holder to the microdrive holder
+* Disattach the pcb holder from the mouse and attach it to the holder. Use the left screw on the pcb to attach it to the holder. Make sure you don't pull on the ribbon cables and that you do not clamp them between pcb and the holder.
+
+## Next steps
+
+* Immediately place the probes in the cleaning solution. The cleaning protocol can be found [here](cleaning.md).
+* Perfuse the animal if you need histology.
