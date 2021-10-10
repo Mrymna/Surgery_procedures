@@ -5,8 +5,9 @@ Leave the probe on its post so that it is protected as much as possible.
 ## Preparation of a Tergazyme solution
 
 Tergazyme is a concentrated, anionic detergent with protease enzyme for manual and ultrasonic cleaning. Excellent for removal of proteinaceous soils, tissue, blood and body fluids from glassware, metals, plastic, ceramic, porcelain, rubber and fiberglass with no interfering residues. Ideal as a cleaning agent in Reverse Osmosis and Ultra-Filtration Systems. USDA authorized. Dilute: 1:100. pH 9.5
+The Tergazyme powder is next to the hood opposite to the ice machine.
 
-* Solution: 0.4 g of Tergazyme powder into 40 ml of distilled water. Put it on the stirer for 10 minutes.
+* Solution: 0.4 g of Tergazyme powder into 40 ml of distilled water. You can use the balance opposite to the Nissle staining hood. Put it on the stirer for 10 minutes.
 <img src="figures/targazine.jpg" alt="drawing" width="400"/>
 
 ## Cleaning the probes
@@ -35,7 +36,7 @@ If after removing the water from the pool, some probes are stuck together becaus
 
 See the figure below for examples of dirty and clean probes. You don't want to let a dirty probe dry as this might compromise your recording sites.
 
-Your probe should not look like this. If they do, try dipping them in warm water (~60 deg celcius).
+Your probe should not look like this. If they do, try dipping them in warm water (~60 deg celcius). If you still have crystals, heat destilled water in the microwave so that it just about starts boiling (~20-25sec). Let it cool down until you can touch the recipient with your hand and dip the shanks into it briefly. Repeat several times if needed.
 
 <img src="figures/dirty_probe.jpg" alt="drawing" width="400"/>
 
