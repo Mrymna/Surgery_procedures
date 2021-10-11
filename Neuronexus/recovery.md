@@ -45,5 +45,5 @@ We now need to attach the microdrive to the holder. The two screws at the front 
 
 ## Next steps
 
-* Immediately place the probes in the cleaning solution. The cleaning protocol can be found [here](cleaning.md). The Tergazyme solution will also remove wax remainings attached to the shanks.
+* Immediately place the probes in the cleaning solution. The cleaning protocol can be found [here](cleaning.md). If there are remainings of wax attached to the shanks, dip them in hot water (see cleaning protocol - remove crystals) before putting the probe in the Tergazyme solution.
 * Perfuse the animal if you need histology.
