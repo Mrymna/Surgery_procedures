@@ -30,7 +30,7 @@ I cement the base with the microdrive at the implantation sites. This ensure tha
 
 ## Mark your implantation sites
 
-* Install an arm with a fine needle on the stereotaxic frame to measure the coordinates on the skull.
+* Install an arm with a fine needle on the stereotaxic frame to measure the coordinates on the skull. Cave: The yellow rubber part of the stereotaxic holder is not quite fixed, so make sure that the needle holder is aligned with the stereotaxic frame.
 * Make sure bregma and lambda are levelled in the DV and AP axes. 0.1 mm difference is ok but not more.
 * Have a look at the general orientation and position of the head without the microscope. If the head does not look straight, it probably isn't and try to align it.
 * Find the AP and ML coordinates of bregma. and write tem down.
