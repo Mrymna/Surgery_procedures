@@ -107,7 +107,7 @@ Insertion depth
 
 ## Close the lid and secure the 4 structural screws
 * Add the lid with the right height, which depends on the height of the microdrive (9-11 mm).
-* Make Marks on the lid above the 2 screws lowering the probes.
+* Make marks on the lid above the 2 screws lowering the probes.
 * Drill holes in the lid that will allow access to the screw without removing the lid.
 * Clean the lif with alcohol 70% and dry it with paper tissue..
 * Put the lid back on and thighten the lid and PCB plate screws.
