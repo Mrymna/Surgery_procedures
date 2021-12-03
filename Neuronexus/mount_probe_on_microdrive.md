@@ -67,5 +67,12 @@ Make sure you do not put any cement in the pin holes of the connectors.
 <img src="figures/mount_probe_cement_pcb.jpg" alt="drawing" width="400"/> 
 <img src="figures/mount_probe_cement_pcb2.jpg" alt="drawing" width="400"/> 
 
+### Handling the mounted microdrive
+
+At no point should you hold a mounted microdrive with fingers or tweezers.
+The microdrive should be attached to the main holder or in a case cemented to an animal.
+
+If you need to change the holder or the orientation of the microdrive on the holder, add a case to the microdrive as described. 
+Use double-sided tape to fix the microdrive to ear bars, release the microdrive and swap the holder and reattach the microdrive.
 
 
