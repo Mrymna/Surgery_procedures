@@ -15,6 +15,7 @@ This repository contains the documentation (or protocols) to perform different s
 * [Prepare the pcb holder](Neuronexus/prepare_pcb_holder.md)
 * [Stack probes](Neuronexus/stack_probes.md)
 * [Mount the probes on the microdrive (1x64 channels)](Neuronexus/mount_probe_on_microdrive.md)
+* [Mount the probes on the microdrive (2x32 channels one dual microdrive)](Neuronexus/mount_probe_on_microdrive_2_32.md)
 
 ### Implantation
 * [Base implantation](Neuronexus/base_implantation.md)
