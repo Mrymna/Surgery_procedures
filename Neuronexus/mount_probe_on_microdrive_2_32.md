@@ -1,12 +1,25 @@
-# Mounting the probe onto the microdrive
+# Mounting 32-channel probes onto the microdrive
 
 The procedure will vary depending on the specific probe and the microdrive configuration.
 
 We are still improving the procedure to reduce the risk of damaging the probe during these steps.
 
-## 1 x 64 channel probe on single-probe microdrive
+## 2 x 32-channel probe on single-probe microdrive
 
-This was a configuration we use to establsh recording for the MEC.
+This was a configuration we use to establsh recording for the hippocampus.
+
+### Add padding to the probe to be able to hold it.
+
+### Prepare ground wires
+
+### Attach the probe to the probe holder 
+
+### Cement the probe to the microdrive
+
+### Add PCB to holder PCB plate
+
+
+
 
 ### Add the PCB to the PCB plate
 
