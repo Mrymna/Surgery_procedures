@@ -10,6 +10,9 @@ This repository contains the documentation (or protocols) to perform different s
 ## Neuronexus probes
 
 ### Preparation
+
+
+* [Materials](Neuronexus/materials.md)
 * [Prepare the base](Neuronexus/prepare_base.md)
 * [Prepare the microdrive](Neuronexus/prepare_microdrive.md)
 * [Prepare the pcb holder](Neuronexus/prepare_pcb_holder.md)
