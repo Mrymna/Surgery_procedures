@@ -17,15 +17,15 @@ I cement the base with the microdrive at the implantation sites. This ensure tha
 ## Prepare the surgery setup
 * beaker with alcohol, beaker with water, well with saline
 * Instruments: scissors, 2 hemostats, tweezers, (skull scraper, screw drilling bit,) fine drilling bit (desinfected in alcohol)
-* 0.3ml or 0.5ml syringe, screwdriver
+* (0.3ml or 0.5ml syringe,) screwdriver
 * ear bars (desinfected in alcohol) attached to the frame
 * arm attached to the frame, needle attached to the arm
-* gas on, adjusted to 800-1000, pump on, heating pad on
+* gas on, O2 adjusted to 800-1000, pump on, heating pad on
 
 ## Prepare the animal
 * Place the animal in the induction chamber until it is not moving and does not stay upright when tilted sideways (approximately 15 sec).
 * Set the isoflurane to 2%.
-* Fix the animal to the stereotaxic frame
+* Fix the animal to the stereotaxic frame.
 * Set the isoflurane to 1.5%. Over the next 5-15 minutes, gradually decrease it until approx. 0.7-1.0%. Always watch the breathing of your animal.
 * Apply a cream to protect the eyes (Bepanthen, Augen under Nasensalbe MIT 5% Dexpanthenol, Bayer).
 * Cut the fur on the head, from the neck to between the eyes.
@@ -87,23 +87,25 @@ By doing most of the drilling before cementing the base, you reduce the chance o
 * Place the base in the correct position. Use the microdrive to make sure your are not placing the base at a position that would make the probe implantation difficult.
 * Check if the base aligns with the skull. For most base types (eg MEC, LEC, ADN/MEC), there will be holes at the left and right posterior edge of the skull. For the CA1 base, you can skip the next step and proceed directly with cementing the base.
 * Create walls out of cement at the edges of the skull where the base does not directly touch the skull. For this purpose, use rather solid cement; the cement should neither flow nor crystallize. You should be able the pull it along with the tooth pick. Make sure that you keep your implantation site free of cement. If any cement flows into the implantation area, separate it immediately from the wall with a fresh tooth pick and remove it, to avoid weakening the wall when you drill the implantation hole. Check if the base touches the walls repeatedly. You should avoid building too high walls because you might run into trouble lowering the microdrive sufficiently.
-* If the base sits on the skull (with walls) in a stable way, you can proceed to cementing the base to the skull. Add some cement at junction of the base and the skull. Apply the cement only from within the base. The cement should flow under the base to grip the skull, but it should not flow into the skin or muscles. 
-* Wait 5 minutes and move the microdrive away so that you have more space to apply the cement.
+* If the base sits on the skull (with walls) in a stable way, you can proceed to cementing the base to the skull. Add some cement at junction of the base and the skull. The cement should be rather liquid so that it can flow under the base to grip the skull, but it should not flow into the skin or muscles. DO NOT TOUCH THE BASE! The base should not move during this procedure, otherwise it can come off easily later.
+* Leave the areas close implantation sites for now. You will add cement there later.
 
 <img src="figures/implant_base5.jpg" alt="drawing" width="400"/>
 
-* Wait 15 minutes for the cement to solidify.
+* Wait 15-20 minutes for the cement to solidify. (I usually use the time to prepare another base.)
+* Add cement to the areas that you spared before. You probably have to touch the base with the tooth pick to close gaps between the wall/skull and the base. Avoid putting force on the base as much as possible.
+* Wait another 10-15min.
 
 If you are implanting the probe in this surgery in addition to the base, go [here](https://github.com/Mrymna/Surgery_procdures/blob/main/Neuronexus/implantation.md).
 
 ## Suturing
 
 * Use saline to clean the skin around the base.
-* Sew stiches to close the wound. Normally, you need 3 stiches at the back and 1 at the front.
+* Sew stiches to close the wound. Normally, you need 2-3 stiches at the back. You might need 1 stitch at the front.
 
 ## Add the pcb plate
 
-* Mount the pcb plate to the base. Try not to apply too much force on the plate or on the head of the animal.
+* Attach the pcb plate to the base. Try not to apply too much force on the plate or on the head of the animal.
 
 <img src="figures/implant_base6.jpg" alt="drawing" width="400"/>
 
@@ -115,12 +117,12 @@ If you are implanting the probe in this surgery in addition to the base, go [her
 <img src="figures/implant_base7.jpg" alt="drawing" width="400"/>
 
 
-## Carprofen injections
+## Carprofen injection
 
-* Prepare your injectable solution of Carprofen.
-* Inject 0.4 ml of Carpofen solution under the skin.
-* Give the animal an additional injection every 24 hours for 2 days.
+* Dilute Carprofen 1:160 in saline (eg 12ml saline + 75µl Carprofen for 40 injections).
+* Inject 0.4 ml of Carpofen solution sc.
 
 ## Return to the home cage
 
-* Move the animal back to its home cage. Make sure it has water available and perhaps some food directly in its cage.
+* Move the animal back to its home cage. Make sure it has water available (well with water) and food directly in its cage (if the animal has to be food-deprived, feed it 3g the day before and the day of surgery).
+* Check on your animal twice the next day and daily the 4 days after (see postop sheet). If the animal has not recovered well, lost a lot of weight or has epileptic seizures, make sure it has easy access to food and water, give some pellet crumbles, give food soaked in water and inject Carprofen (up to 2 injections per day).
