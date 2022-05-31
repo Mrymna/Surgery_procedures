@@ -35,6 +35,6 @@ This repository contains the documentation (or protocols) to perform different s
 * [4x16 probes with 64-channel intan amplifier](Neuronexus/4x16_64channel.md)
 
 
-## Cambridge probes
+## Cambridge Neurotech probes
 
 
