@@ -125,4 +125,4 @@ If you are implanting the probe in this surgery in addition to the base, go [her
 ## Return to the home cage
 
 * Move the animal back to its home cage. Make sure it has water available (well with water) and food directly in its cage (if the animal has to be food-deprived, feed it 3g the day before and the day of surgery).
-* Check on your animal twice the next day and daily the 4 days after (see postop sheet). If the animal has not recovered well, lost a lot of weight or has epileptic seizures, make sure it has easy access to food and water, give some pellet crumbles, give food soaked in water and inject Carprofen (up to 2 injections per day).
+* Check on your animal twice the next day and daily the 4 days after (see [Postop sheet](https://github.com/Mrymna/Surgery_procedures/files/8804299/Post-OP.sheet.EN.pdf)). If the animal has not recovered well, lost a lot of weight or has epileptic seizures, make sure it has easy access to food and water, give some pellet crumbles, give food soaked in water and inject Carprofen (up to 2 injections per day).
