@@ -16,11 +16,14 @@ I cement the base with the microdrive at the implantation sites. This ensure tha
 
 ## Prepare the surgery setup
 * beaker with alcohol, beaker with water, well with saline
-* Instruments: scissors, 2 hemostats, tweezers, (skull scraper, screw drilling bit,) fine drilling bit (desinfected in alcohol)
-* (0.3ml or 0.5ml syringe,) screwdriver
+* Instruments: 2 hemostats, blue and silver tweezers, scissors, (skull scraper, screw drilling bit,) fine drilling bit (desinfected in alcohol)
+* screwdriver, eye cream
 * ear bars (desinfected in alcohol) attached to the frame
-* arm attached to the frame, needle attached to the arm
-* gas on, O2 adjusted to 800-1000, pump on, heating pad on
+* arm attached to the frame
+* gas on, O2 adjusted to 800-1000, pump on, heat pad on
+
+<img src="figures/Base_implantataion_prepared_surgery_setup.jpg" alt="drawing" width="400"/>
+<img src="figures/Base_implantation_tools.jpg" alt="drawing" width="400"/>
 
 ## Prepare the animal
 * Place the animal in the induction chamber until it is not moving and does not stay upright when tilted sideways (approximately 15 sec).
